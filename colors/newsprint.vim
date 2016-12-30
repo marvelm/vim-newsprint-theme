@@ -149,7 +149,7 @@ if &t_Co > 255
    hi  SpellCap           ctermbg=0          cterm=NONE
    hi  SpellLocal         ctermbg=0          cterm=NONE
    hi  SpellRare          ctermbg=0          cterm=NONE
-   hi  StatusLine         ctermfg=0          ctermbg=0          cterm=bold
+   hi  StatusLine         ctermfg=0          ctermbg=255        cterm=bold
    hi  StatusLineNC       ctermfg=241        ctermbg=235        cterm=NONE
    hi  TabLine            ctermfg=fg         ctermbg=243        cterm=underline
    hi  TabLineFill        ctermfg=fg         ctermbg=bg         cterm=reverse
